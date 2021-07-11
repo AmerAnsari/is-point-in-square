@@ -1,1 +1,1 @@
-export * from './src/index';
+export { Square, Point, single, multi } from './src/index';
