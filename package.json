@@ -1,6 +1,6 @@
 {
   "name": "is-point-in-square",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Check if a given point in the square areas.",
   "main": "index.js",
   "scripts": {
